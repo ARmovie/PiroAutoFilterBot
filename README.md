@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg">
+  <img src="https://telegra.ph/file/b5c44b091d4c2845abb40.jpg">
 </p>
 <h1 align="center">
   <b>PiroAutoFilterBot</b>
